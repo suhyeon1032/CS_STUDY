@@ -154,19 +154,5 @@ WAN은 광역 네트워크를 의미하며 국가 또는 대륙 같은 더 넓�
 #### ping(Packet INternet Groper)
 네트워크 상태를 확인하려는 대상 노드를 향해 일정 크기의 패킷을 전송하는 명령어다.
 
-
-
-
-
-
-
-<img src="" width="400" >
-
-
-<small><span style="color:gray">❕****</span></small>
-<small>  </small>
-
-
-
 http://www.yes24.com/Product/Goods/108887922
 https://m.blog.naver.com/hilineisp/10169694570
